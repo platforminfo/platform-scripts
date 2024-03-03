@@ -1,0 +1,17 @@
+{CompileConfig}
+ConsoleDisplay = FA:SE
+ConsoleLog = FALSE
+ElevationAllowed = FALSE
+ElevateOnRun = FALSE
+
+{Run}
+
+Dialog [
+Title="test"
+Text="text"
+
+Buttons [
+"Ok"=next
+"Cancel"=exit
+]
+]
